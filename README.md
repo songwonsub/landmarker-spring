@@ -13,7 +13,8 @@
 ![이미지 분석](https://user-images.githubusercontent.com/95617999/169807776-f7bc2d66-0964-42e6-81a3-33db303be9ea.gif)<br><br>
 
  <strong>갤러리 페이지
-   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95617999/169808860-073dd9d7-c43a-49bf-a3ed-65d975e1caaa.gif)<br><br>
+  
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95617999/169808860-073dd9d7-c43a-49bf-a3ed-65d975e1caaa.gif)<br><br>
 
   
 <strong>갤러리 상세 페이지
